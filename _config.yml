@@ -1,0 +1,28 @@
+name: kiteboarding
+favicon: null
+layout_spectrum: 0.06748567125760019
+typography_spectrum: 0.6654170353431255
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2756373204756528
+  lightness: 0.8778889155946672
+  saturation: 0.32275248039513826
+  rhythmicContrast: 0.21933934465050697
+purpose: []
